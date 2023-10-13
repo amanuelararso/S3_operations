@@ -46,7 +46,7 @@ s3Ops.listBuckets(); // prints names of S3 buckets to the console
 To use this project, clone the repository and import it into your Java development environment.
 
 ```shell
-git clone (https://github.com/amanuelararso/S3_operations.git)
+git clone https://github.com/amanuelararso/S3_operations.git
 ```
 
 ## Contribution
